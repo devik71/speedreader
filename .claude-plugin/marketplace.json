@@ -1,0 +1,13 @@
+{
+  "name": "speedreader",
+  "description": "SpeedRead: local RSVP speed reading for Claude Code answers",
+  "owner": {
+    "name": "devik71"
+  },
+  "plugins": [
+    {
+      "name": "speedread",
+      "source": "./speedread-claude-mod"
+    }
+  ]
+}

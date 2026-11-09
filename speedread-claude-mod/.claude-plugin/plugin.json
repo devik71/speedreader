@@ -1,0 +1,9 @@
+{
+  "name": "speedread",
+  "version": "0.2.0",
+  "description": "Local RSVP reader for Claude Code responses, built as a native Claude Code mod",
+  "author": {
+    "name": "devik71"
+  },
+  "types": "./types/index.d.ts"
+}
